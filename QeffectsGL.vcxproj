@@ -95,7 +95,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="source\qfx_hooks.cpp" />
-    <ClCompile Include="source\qfx_jk2.cpp" />
     <ClCompile Include="source\qfx_library.cpp" />
     <ClCompile Include="source\qfx_log.cpp" />
     <ClCompile Include="source\qfx_opengl.cpp" />

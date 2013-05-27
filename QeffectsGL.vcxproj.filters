@@ -36,9 +36,6 @@
     <ClCompile Include="source\qfx_settings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="source\qfx_jk2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\qfx_library.h">
